@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArlennBrain
-- 👀 I’m interested in robot (industrial and artisanal robot)
+- 👀 I’m interested in robotic (industrial and artisanal robot)
 - 🌱 I’m currently learning Python tkinter, qt creator
 - 💞️ I’m looking to collaborate on DIY project
 
